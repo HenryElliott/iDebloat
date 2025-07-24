@@ -7,14 +7,14 @@
 ---
 
 ## Overview
-iDebloat is a powerful, clean, and user-friendly PowerShell GUI tool designed to help you declutter Windows by removing bloatware, disabling telemetry, tweaking performance settings, and more — all in a few clicks.
+iDebloat is a powerful, clean, and user-friendly PowerShell GUI tool designed to help you declutter Windows by removing bloatware, disabling telemetry, tweaking performance settings, and more, all in a few clicks.
 
 It features:  
 - Modern, resizable WPF interface  
 - Multi-column task selection with descriptive tooltips  
 - Async execution with real-time progress and logs  
 - Core debloat tasks: Remove Edge, OneDrive, Cortana, disable telemetry, background apps, and install useful apps silently  
-- Fully open to extensions — planned advanced features include system backups, restore points, task dependency management, scheduling, system info, and more.
+- Fully open to extensions - planned advanced features include system backups, restore points, task dependency management, scheduling, system info, and more.
 
 ---
 
