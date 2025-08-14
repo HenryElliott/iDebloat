@@ -134,5 +134,5 @@ This tool modifies system settings, services, and registry keys. Always back up 
 ---
 
 ## 📬 Contact
-For feature requests, bug reports, or contributions — open an issue or pull request.
+For feature requests, bug reports, or contributions, open an issue or pull request.
 
