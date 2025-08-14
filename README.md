@@ -1,4 +1,4 @@
-# 🚀 iDebloat — Professional Windows Debloat & Performance Suite
+# 🚀 iDebloat - Professional Windows Debloat & Performance Suite
 
 [![PowerShell](https://img.shields.io/badge/PowerShell-5.1+-blue.svg)](https://docs.microsoft.com/en-us/powershell/) 
 [![Windows](https://img.shields.io/badge/Windows-10%2F11-blue)](https://www.microsoft.com/windows)
