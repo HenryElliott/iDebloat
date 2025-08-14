@@ -7,7 +7,7 @@
 **Author:** Henry Elliott  
 **Version:** 1.0  
 **Platform:** Windows 10/11 (PowerShell 5+ with .NET Framework)  
-**License:** MIT License — Free to use, modify, and distribute.
+**License:** MIT License: Free to use, modify, and distribute.
 
 ---
 
@@ -18,13 +18,13 @@
 Built in **PowerShell + WPF**, iDebloat combines **one-click preset profiles**, fine-grained manual controls, and automation features like **scheduling, backups, and restore points**.
 
 ### ✨ Highlights
-- 🖥 **Modern WPF GUI** — Fully resizable, dark-themed interface.
-- 📋 **30+ Optimization Tasks** — Each with description, dependencies, and optional undo.
-- ⚡ **One-Click Profiles** — Safe, Performance, Extreme, Gaming, Workstation/DAW, Privacy-Max.
-- ⏱ **Scheduler** — Automate debloat runs at idle or daily times.
-- 📊 **System Info Dashboard** — OS, build, uptime, app counts.
-- ♻ **Undo & Restore Points** — Automatic backup and rollback safety.
-- 🔌 **Extensible Architecture** — Add your own tasks easily.
+- 🖥 **Modern WPF GUI** - Fully resizable, dark-themed interface.
+- 📋 **30+ Optimization Tasks** - Each with description, dependencies, and optional undo.
+- ⚡ **One-Click Profiles** - Safe, Performance, Extreme, Gaming, Workstation/DAW, Privacy-Max.
+- ⏱ **Scheduler** - Automate debloat runs at idle or daily times.
+- 📊 **System Info Dashboard** - OS, build, uptime, app counts.
+- ♻ **Undo & Restore Points** - Automatic backup and rollback safety.
+- 🔌 **Extensible Architecture**- Add your own tasks easily.
 
 ---
 
@@ -56,7 +56,7 @@ Built in **PowerShell + WPF**, iDebloat combines **one-click preset profiles**, 
 |---------------|-------------|
 | **Safe**      | Removes common bloatware, disables telemetry & background apps, basic performance tweaks. |
 | **Performance** | Aggressive speed tweaks, disables more background services, enables Ultimate Performance plan. |
-| **Extreme ⚠** | Includes risky changes like Defender real-time disable — use with caution. |
+| **Extreme ⚠** | Includes risky changes like Defender real-time disable, use with caution. |
 | **Gaming**    | Prioritizes FPS & latency: Game Mode, GPU Scheduling, disables DVR, reduces background load. |
 | **Workstation / DAW** | Optimizes for audio/video work: USB stability tweaks, disables background apps. |
 | **Privacy-Max** | Locks down telemetry, location services, tailored ads, widgets. |
@@ -103,9 +103,9 @@ Easily set **daily** or **at-logon** automatic runs from the Scheduler tab:
 
 ## ♻ Undo & Restore
 
-- **Undo Last Run** — Reverts last executed tasks (where applicable).
-- **Automatic Restore Point** — Created before tweaks.
-- **Optional Data Backup** — Documents, Desktop, Pictures, Downloads.
+- **Undo Last Run** - Reverts last executed tasks (where applicable).
+- **Automatic Restore Point** - Created before tweaks.
+- **Optional Data Backup** - Documents, Desktop, Pictures, Downloads.
 
 ---
 
@@ -129,7 +129,7 @@ This tool modifies system settings, services, and registry keys. Always back up 
 ---
 
 ## 📸 Screenshots
-*(Add screenshots here to showcase GUI)*
+*(coming soon*
 
 ---
 
